@@ -51,7 +51,7 @@ This dashboard is designed as a two-page comprehensive analytics solution.
 - Content distribution by age rating
 - Rating correlation analysis over time
 
-
+![Overview Dashboard](Docs/Overview-Dashboard.png)
 
 ### Page 2: Content Analysis Dashboard
 
