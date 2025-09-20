@@ -51,7 +51,7 @@ This dashboard is designed as a two-page comprehensive analytics solution.
 - Content distribution by age rating
 - Rating correlation analysis over time
 
-![Overview Dashboard](docs/Overview-Dashboard.png)
+![Overview Dashboard](Docs/Overview-Dashboard.png)
 
 ### Page 2: Content Analysis Dashboard
 
@@ -69,7 +69,7 @@ This dashboard is designed as a two-page comprehensive analytics solution.
 - Platform content availability analysis
 - IMDb vs Rotten Tomatoes rating correlation
 
-![Content Analysis Dashboard](docs/Content-Analysis-Dashboard.png)
+![Content Analysis Dashboard](Docs/Content-Analysis-Dashboard.png)
 
 ## Data Transformation
 
