@@ -13,7 +13,7 @@ This Power BI project analyzes the Over-The-Top (OTT) media streaming landscape 
 
 ## Dataset
 
-**Source**: [MoviesOnStreamingPlatforms_updated.csv](https://github.com/prasertcbs/basic-dataset/blob/master/MoviesOnStreamingPlatforms.csv)
+**Source**: [MoviesOnStreamingPlatforms.csv](https://github.com/prasertcbs/basic-dataset/blob/master/MoviesOnStreamingPlatforms.csv)
 
 **Dataset Size**: 16,744 movies spanning from 1902 to 2020
 
