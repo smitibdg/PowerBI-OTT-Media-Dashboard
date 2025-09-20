@@ -1,8 +1,6 @@
 # PowerBI-OTT-Media-Dashboard
 # OTT Media Dashboard - Power BI Analytics
 
-## Project Overview
-
 This Power BI project analyzes the Over-The-Top (OTT) media streaming landscape using real-world data from movies available across major streaming platforms. The dashboard provides comprehensive insights into content distribution, quality metrics, platform strategies, and global content trends for data-driven decision making in the streaming industry.
 
 ## Objective
@@ -53,6 +51,8 @@ This dashboard is designed as a two-page comprehensive analytics solution.
 - Content distribution by age rating
 - Rating correlation analysis over time
 
+![Overview Dashboard](docs/Overview-Dashboard.png)
+
 ### Page 2: Content Analysis Dashboard
 
 **Purpose**: Detailed content intelligence and market analysis
@@ -68,6 +68,8 @@ This dashboard is designed as a two-page comprehensive analytics solution.
 - Global content distribution (world map)
 - Platform content availability analysis
 - IMDb vs Rotten Tomatoes rating correlation
+
+![Content Analysis Dashboard](docs/Content-Analysis-Dashboard.png)
 
 ## Data Transformation
 
