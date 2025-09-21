@@ -140,10 +140,6 @@ PowerBI-OTT-Media-Dashboard/
 **Author**: Smiti Badugu  
 **GitHub**: [@smitibdg](https://github.com/smitibdg)
 
-## Acknowledgments
-
-Dataset sourced from [prasertcbs/basic-dataset](https://github.com/prasertcbs/basic-dataset) repository.
-
 ---
 
 ⭐ If you found this project useful, please consider giving it a star!
